@@ -1,0 +1,15 @@
+.para{
+    height: 600px;
+    color: white;
+    background-image: url(assets/todolist.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+
+}
+.p1{
+    background-color: orange;
+}
+.p2{
+    text-decoration: underline;
+}
